@@ -1,0 +1,6 @@
+* Please complete the following form.
+
+- Name: Devin Dang
+- Pitt Email: ded57@pitt.edu
+
+Note: Your Bitbucket account should be associated with your pitt.edu email address.
